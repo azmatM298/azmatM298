@@ -1,4 +1,4 @@
-## # Hi, I'm Azmat! 👋
+ # Hi, I'm Azmat! 👋
 
 💻 Web Developer | Backend & Database Developer  
 🎨 Graphic Designer  
